@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "x-www-form-urlencoded support",
+    "title": "x-www-form-urlencoded support!",
     "description": "https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.3.md#support-for-x-www-form-urlencoded-request-bodies",
     "version": "1.0.0"
   },
